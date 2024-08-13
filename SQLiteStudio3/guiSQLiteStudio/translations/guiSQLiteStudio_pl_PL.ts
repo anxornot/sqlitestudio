@@ -2026,12 +2026,12 @@ Przeglądanie pozostałych stron będzie możliwe kiedy liczenie wierszy zostani
       <translation>Wybierz typ bazy danych.</translation>
     </message>
     <message>
-      <location filename="../dialogs/dbdialog.cpp" line="743"/>
+      <location filename="../dialogs/dbdialog.cpp" line="756"/>
       <source>Choose a location for the new database file</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="../dialogs/dbdialog.cpp" line="744"/>
+      <location filename="../dialogs/dbdialog.cpp" line="757"/>
       <source>Browse for existing database file on local computer</source>
       <translation type="unfinished"/>
     </message>

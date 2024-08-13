@@ -2026,12 +2026,12 @@ Das Aufrufen anderer Seiten ist erst nach Abschluss der Zählung möglich.</tran
       <translation>Wählen Sie einen Datebanktypen aus.</translation>
     </message>
     <message>
-      <location filename="../dialogs/dbdialog.cpp" line="743"/>
+      <location filename="../dialogs/dbdialog.cpp" line="756"/>
       <source>Choose a location for the new database file</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="../dialogs/dbdialog.cpp" line="744"/>
+      <location filename="../dialogs/dbdialog.cpp" line="757"/>
       <source>Browse for existing database file on local computer</source>
       <translation type="unfinished"/>
     </message>

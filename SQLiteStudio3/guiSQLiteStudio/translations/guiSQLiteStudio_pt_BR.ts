@@ -2027,12 +2027,12 @@ Navegar por outras páginas será possível após a contagem de linhas ser final
       <translation>Selecione um tipo de banco de dados.</translation>
     </message>
     <message>
-      <location filename="../dialogs/dbdialog.cpp" line="743"/>
+      <location filename="../dialogs/dbdialog.cpp" line="756"/>
       <source>Choose a location for the new database file</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="../dialogs/dbdialog.cpp" line="744"/>
+      <location filename="../dialogs/dbdialog.cpp" line="757"/>
       <source>Browse for existing database file on local computer</source>
       <translation type="unfinished"/>
     </message>
